@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite_Remplazo</string>
+    <string name="TITULO">BASE DE DATOS SQLITE</string>
+    <string name="D_CEDULA">Digite la Cédula</string>
+    <string name="D_NOMBRE">Digite el Nombre</string>
+    <string name="D_TELEFONO">Digite el Teléfono</string>
+    <string name="INGRESA_CEDULA"></string>
+    <string name="INGRESA_NOMBRE"></string>
+    <string name="INGRESA_TELEFONO"></string>
+    <string name="BLANCO"></string>
+    <string name="BOTON_GUARDAR">GUARDAR</string>
+    <string name="BOTON_CONSULTAR">CONSULTAR</string>
+</resources>
