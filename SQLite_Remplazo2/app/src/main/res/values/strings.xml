@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Mail</string>
+    <string name="BLANCO"></string>
+    <string name="ASUNTO">Ingrese Asunto</string>
+    <string name="CONTENIDO">Ingrese Contenido</string>
+    <string name="CORREO">Ingrese Correo</string>
+    <string name="NOMBRE">Ingrese Nombre</string>
+    <string name="RECIBE_ASUNTO"></string>
+    <string name="RECIBE_CONTENIDO"></string>
+    <string name="RECIBE_CORREO"></string>
+    <string name="RECIBE_NOMBRE"></string>
+    <string name="BOTON_GUARDAR">GUARDAR</string>
+    <string name="BOTON_ELIMINAR">ELIMINAR</string>
+    <string name="TITULO2">RECIBIDOS</string>
+    <string name="LISTA">CORREOS_MAIL</string>
+    <string name="BOTON_A_E">AGREGAR O ELIMINAR CORREOS</string>
+</resources>
